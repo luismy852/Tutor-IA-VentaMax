@@ -26,6 +26,11 @@ Tutor inteligente basado en IA para entrenar equipos de ventas B2B. Evalúa resp
 - Python 3.11 o superior
 - Node.js 18 o superior
 - Una API key de OpenAI — [obtenerla aquí](https://platform.openai.com/api-keys)
+## Clonar el repositorio
+```bash
+git clone https://github.com/luismy852/Tutor-IA-VentaMax.git
+cd Tutor-IA-VentaMax
+```
 
 ## Configuración del backend
 
