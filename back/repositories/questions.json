@@ -1,0 +1,9 @@
+{
+    "pregunta1": ["¿Cómo presentarías nuestra solución de Software B2B a un cliente que dice estar 'muy ocupado' para una reunión?",
+                    "Contactas a un prospecto por frío y te dice: 'Ya trabajamos con un competidor y estamos felices'. ¿Qué le dices para conseguir al menos 5 minutos de su atención?"],
+    "pregunta2": ["Si el cliente te pregunta: '¿Qué me ofreces tú que no me dé Excel gratis?', ¿cuál es tu argumento de valor?",
+                "El cliente entiende la herramienta, pero dice: 'No veo cómo esto me ayuda a ganar más dinero este trimestre'. ¿Cómo conectas tu software con su ROI (Retorno de Inversión) inmediato?"],
+    "pregunta3":["El cliente dice: 'El presupuesto está cerrado hasta el próximo año'. ¿Cómo mantienes viva la oportunidad?","A mitad de la presentación, el cliente te interrumpe: 'Esto se ve muy complejo para mi equipo, no tenemos tiempo para aprender a usarlo'. ¿Cómo manejas el miedo a la implementación?"],
+    "pregunta4":["Estás al final de la demo, el cliente parece convencido pero no firma. ¿Qué técnica de cierre usarías?","El cliente dice: 'Me encanta, envíame la propuesta por correo y lo revisamos'. Tú sabes que el envío de correos sin compromiso suele 'enfriar' la venta. ¿Cómo logras un acuerdo de siguiente paso en esa misma llamada?"],
+    "pregunta5":["¿Cómo identificas si un prospecto realmente tiene el poder de decisión o si solo te está haciendo perder el tiempo?","Has tenido tres reuniones con un gerente medio, pero sientes que no tiene presupuesto. ¿Qué pregunta le harías para llegar al dueño o tomador de decisiones sin ofender a tu contacto actual?"]
+}
