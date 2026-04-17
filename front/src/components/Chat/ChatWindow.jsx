@@ -68,7 +68,7 @@ export function ChatWindow() {
           }
         })
         .catch(() => {
-          /* non-fatal: start with empty history */
+          /* no es crítico: se inicia con historial vacío */
         });
     }
   }, [sessionId, sessionState]);
